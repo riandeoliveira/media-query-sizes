@@ -1,0 +1,12 @@
+{
+  "name": "@riandeoliveira/media-query-breakpoints",
+  "version": "1.0.0",
+  "description": "Media Query Breakpoints for Styled Components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rian Oliveira",
+  "license": "MIT"
+}
