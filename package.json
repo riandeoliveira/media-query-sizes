@@ -1,12 +1,20 @@
 {
-  "name": "@riandeoliveira/media-query-breakpoints",
+  "name": "media-query-sizes",
   "version": "1.0.0",
-  "description": "Media Query Breakpoints for Styled Components",
+  "description": "Simple media query breakpoints for Styled Components, following the DevTools standard dimensions.",
   "main": "index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": [
+    "breakpoints",
+    "css-in-js",
+    "css",
+    "dimensions",
+    "media-queries",
+    "media",
+    "query",
+    "react",
+    "sizes",
+    "styled-components"
+  ],
   "author": "Rian Oliveira",
   "license": "MIT"
 }
