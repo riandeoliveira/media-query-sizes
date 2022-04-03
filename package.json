@@ -16,5 +16,8 @@
     "styled-components"
   ],
   "author": "Rian Oliveira",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
