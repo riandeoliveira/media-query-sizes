@@ -1,6 +1,6 @@
 {
   "name": "media-query-sizes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple media query breakpoints for Styled Components, following the DevTools standard dimensions.",
   "main": "index.ts",
   "keywords": [
