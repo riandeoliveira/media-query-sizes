@@ -43,6 +43,6 @@ export const Card = styled.div`
 
 ## License
 
-MIT
+[MIT](https://github.com/riandeoliveira/media-query-sizes/blob/main/LICENSE)
 
 <p align="center">Made with 💙 by <a href="https://github.com/riandeoliveira"><strong>Rian Oliveira</strong></a></p>
