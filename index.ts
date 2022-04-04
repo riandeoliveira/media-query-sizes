@@ -1,24 +1,4 @@
-interface Breakpoints {
-  desktop: number;
-  laptopL: number;
-  laptop: number;
-  tablet: number;
-  mobileL: number;
-  mobileM: number;
-  mobileS: number;
-}
-
-interface DeviceSizes {
-  desktop: string;
-  laptopL: string;
-  laptop: string;
-  tablet: string;
-  mobileL: string;
-  mobileM: string;
-  mobileS: string;
-}
-
-const size: Breakpoints = {
+const size = {
   desktop: 2560,
   laptopL: 1440,
   laptop: 1024,
@@ -28,7 +8,7 @@ const size: Breakpoints = {
   mobileS: 320,
 };
 
-const device: DeviceSizes = {
+const device = {
   desktop: `(max-width: ${size.desktop}px)`,
   laptopL: `(max-width: ${size.laptopL}px)`,
   laptop: `(max-width: ${size.laptop}px)`,

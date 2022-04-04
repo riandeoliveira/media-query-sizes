@@ -1,6 +1,6 @@
 {
   "name": "media-query-sizes",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Simple media query breakpoints for Styled Components, following the DevTools standard dimensions.",
   "main": "index.ts",
   "keywords": [
@@ -15,13 +15,6 @@
     "sizes",
     "styled-components"
   ],
-  "scripts": {
-    "build": "npx tsc",
-    "prepublish": "npx tsc"
-  },
   "author": "Rian Oliveira",
-  "license": "MIT",
-  "devDependencies": {
-    "typescript": "^4.6.3"
-  }
+  "license": "MIT"
 }
