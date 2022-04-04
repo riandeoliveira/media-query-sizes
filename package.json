@@ -15,9 +15,13 @@
     "sizes",
     "styled-components"
   ],
+  "scripts": {
+    "build": "npx tsc",
+    "prepublish": "npx tsc"
+  },
   "author": "Rian Oliveira",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.6.3"
   }
 }
